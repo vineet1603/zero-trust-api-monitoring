@@ -156,19 +156,7 @@ Open the local address shown in the terminal. If the application uses Flask's de
 http://127.0.0.1:5000
 ```
 
-## 🖥️ Dashboard Preview
 
-Add a screenshot of your actual dashboard to the repository, for example at `screenshots/dashboard.png`, then use:
-
-```markdown
-![Zero-Trust API Traffic Monitor dashboard](screenshots/dashboard.png)
-```
-
-You can also add a terminal screenshot showing database initialization and aggregation output:
-
-```markdown
-![Database setup and aggregation output](screenshots/terminal-output.png)
-```
 
 Create the `screenshots/` directory and commit the images before using these paths. The image links above are placeholders until those files exist.
 
@@ -203,9 +191,6 @@ Create the `screenshots/` directory and commit the images before using these pat
 
 Contributions, bug reports, and feature requests are welcome. Open an issue to discuss a proposed change, or submit a pull request with a clear description of the improvement.
 
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file and update this section if you want to define how others may use, modify, or distribute the project.
 
 ---
 
